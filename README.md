@@ -34,3 +34,28 @@ Instalación rápida de dependencias:
 
 ```bash
 pip install pyautogui keyboard
+```
+
+
+## 📥 Descargar ejecutable
+
+Puedes descargar el `.exe` ya generado desde este enlace:
+
+🔗 [Descargar desde Google Drive](#) _(https://drive.google.com/file/d/1rxrwGuu7zmRkAUyqkzMtibvc2cVRSWV9/view)_
+
+---
+
+## 🛑 Aviso legal
+
+Este script se proporciona con fines educativos y personales.  
+Automatizar procesos en sitios web de terceros puede ir en contra de sus **términos de servicio**.  
+Úsalo **bajo tu propia responsabilidad**.
+
+---
+
+## 🙋‍♂️ Soporte y contacto
+
+Si tienes dudas, sugerencias o quieres comentar algo sobre el script, no dudes en contactarme:  
+👉 [thepalms.tech](https://thepalms.tech)
+
+
