@@ -41,7 +41,7 @@ pip install pyautogui keyboard
 
 Puedes descargar el `.exe` ya generado desde este enlace:
 
-🔗 [Descargar desde Google Drive](#) _(https://drive.google.com/file/d/1rxrwGuu7zmRkAUyqkzMtibvc2cVRSWV9/view)_
+🔗 [Descargar desde Google Drive](#)_(https://drive.google.com/file/d/1rxrwGuu7zmRkAUyqkzMtibvc2cVRSWV9/view)_
 
 ---
 
